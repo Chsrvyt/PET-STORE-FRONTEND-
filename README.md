@@ -1,6 +1,11 @@
-# PET-STORE-FRONTEND-
-ITS WAS THE FIRST AI PROJECT CREATED BY ME
-USED OF AI IN USE ARE FIGMA FOR THE CODE AND CHATGPT FOR PROBLEM STATEMENT 
-THE WEBPAGE WAS GOOD AS IT COMBINES ADD TO CART OPTION AND MAPS INBUILD 
-HOPE YOU ENJOYED ....
-< AN OPENSOURCE PROJECT >
+
+  # Myntra-Style Pet Store Website
+
+  This is a code bundle for Myntra-Style Pet Store Website. The original project is available at https://www.figma.com/design/bxEwQAEOmWZg5ekxkU350f/Myntra-Style-Pet-Store-Website.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
